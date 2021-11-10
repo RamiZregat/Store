@@ -14,11 +14,9 @@
 
 ## Links to check:
 
-- Heroku application for main branch: 
+- Heroku application for main branch: https://cars-store-project.herokuapp.com/
 
-- Github actions link: 
-
-- Github pull request link: 
+- Github pull request link: https://github.com/RamiZregat/Store/pull/2
 
 
 ## Dependencies:  
