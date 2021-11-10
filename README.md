@@ -16,7 +16,7 @@
 
 - Heroku application for main branch: https://cars-store-project.herokuapp.com/
 
-- Github pull request link: https://github.com/RamiZregat/Store/pull/2
+- Github pull request link: https://github.com/RamiZregat/Store/pull/3
 
 
 ## Dependencies:  
@@ -47,26 +47,26 @@
 - npm run test / on the terminal
 - POST - http://localhost:3030/signup
 - POST - http://localhost:3030/signin
-- POST - http://localhost:3030/api/v1/cars
-- GET - http://localhost:3030/api/v1/cars
-- GET - http://localhost:3030/api/v1/cars/1
-- PUT - http://localhost:3030/api/v1/cars/1
-- DELETE - http://localhost:3030/api/v1/cars/1
-- POST - http://localhost:3030/api/v1/accessories
-- GET - http://localhost:3030/api/v1/accessories
-- GET - http://localhost:3030/api/v1/accessories/1
-- PUT - http://localhost:3030/api/v1/accessories/1
-- DELETE - http://localhost:3030/api/v1/accessories/1
-- POST - http://localhost:3030/api/v2/cars
-- GET - http://localhost:3030/api/v2/cars
-- GET - http://localhost:3030/api/v2/cars/1
-- PUT - http://localhost:3030/api/v2/cars/1
-- DELETE - http://localhost:3030/api/v2/cars/1
-- POST - http://localhost:3030/api/v2/accessories
-- GET - http://localhost:3030/api/v2/accessories
-- GET - http://localhost:3030/api/v2/accessories/1
-- PUT - http://localhost:3030/api/v2/accessories/1
-- DELETE - http://localhost:3030/api/v2/accessories/1
+- POST - http://localhost:3030/products/v1/cars
+- GET - http://localhost:3030/products/v1/cars
+- GET - http://localhost:3030/products/v1/cars/1
+- PUT - http://localhost:3030/products/v1/cars/1
+- DELETE - http://localhost:3030/products/v1/cars/1
+- POST - http://localhost:3030/products/v1/accessories
+- GET - http://localhost:3030/products/v1/accessories
+- GET - http://localhost:3030/products/v1/accessories/1
+- PUT - http://localhost:3030/products/v1/accessories/1
+- DELETE - http://localhost:3030/products/v1/accessories/1
+- POST - http://localhost:3030/products/v2/cars
+- GET - http://localhost:3030/products/v2/cars
+- GET - http://localhost:3030/products/v2/cars/1
+- PUT - http://localhost:3030/products/v2/cars/1
+- DELETE - http://localhost:3030/products/v2/cars/1
+- POST - http://localhost:3030/products/v2/accessories
+- GET - http://localhost:3030/products/v2/accessories
+- GET - http://localhost:3030/products/v2/accessories/1
+- PUT - http://localhost:3030/products/v2/accessories/1
+- DELETE - http://localhost:3030/products/v2/accessories/1
 
 ## UML
 
